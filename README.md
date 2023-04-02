@@ -3,7 +3,11 @@
 <h3 align="center">Introduction desctiption line</h3>
 
 
-[![codewars](https://www.codewars.com/users/egrivtsov/badges/large)](https://www.codewars.com/users/egrivtsov)
-[![egrivtsov's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=egrivtsov)](https://github.com/egrivtsov/leetcode-stats)
+# 🎓 Educational community
+![codewars](https://github.r2v.ch/codewars?user=egrivtsov&theme=light&hide_clan=true&name=true)
+![Leetcode Stats](https://leetcard.jacoblin.cool/egrivtsov?border=0)
+
+
+
 
  

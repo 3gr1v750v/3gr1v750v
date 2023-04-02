@@ -3,7 +3,7 @@
 <h3 align="center">Introduction desctiption line</h3>
 
 
-# 🎓 Educational community
+## 🎓 Educational community
 ![codewars](https://github.r2v.ch/codewars?user=egrivtsov&theme=light&hide_clan=true&name=true)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/egrivtsov?border=0)
 

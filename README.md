@@ -4,8 +4,10 @@
 
 ## 🎓 Educational community
 
-![codewars](https://github.r2v.ch/codewars?user=egrivtsov&theme=light&hide_clan=true&name=true&width=10)
-![Leetcode Stats](https://leetcard.jacoblin.cool/egrivtsov?border=0)
+<div>
+<img src="https://github.r2v.ch/codewars?user=egrivtsov&theme=light&hide_clan=true" height="150"/>
+<img src="https://leetcard.jacoblin.cool/egrivtsov?border=0" height="150"/>
+</div>
 
 
 

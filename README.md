@@ -4,9 +4,9 @@
 
 ## 🎓 Educational community
 
-<div>
-<img src="https://leetcard.jacoblin.cool/egrivtsov?border=0" width="50%"/>
-<img src="https://github.r2v.ch/codewars?user=egrivtsov&theme=light&hide_clan=true" width="50%"/>
+<div style="width: 100%;">
+    <a href="https://www.codewars.com/users/egrivtsov"><img src="https://leetcard.jacoblin.cool/egrivtsov?border=0" style="width: 49%; float: left;"></a>
+    <a href="https://leetcode.com/egrivtsov/"><img src="https://github.r2v.ch/codewars?user=egrivtsov&theme=light&hide_clan=true" style="width: 49%; float: left;"></a>
 </div>
 
 

@@ -3,3 +3,6 @@
 <h3 align="center">Introduction desctiption line</h3>
 
 
+[![SunChaser's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SunChase)](https://github.com/KnlnKS/leetcode-stats)
+
+[![codewars](https://www.codewars.com/users/SunChaser/badges/large)](https://www.codewars.com/users/SunChaser) 

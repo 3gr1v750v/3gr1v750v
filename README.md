@@ -5,8 +5,8 @@
 ## 🎓 Educational community
 
 <div>
-<img src="https://leetcard.jacoblin.cool/egrivtsov?border=0" height="180"/>
-<img src="https://github.r2v.ch/codewars?user=egrivtsov&theme=light&hide_clan=true" height="180"/>
+<img src="https://leetcard.jacoblin.cool/egrivtsov?border=0" width="50%"/>
+<img src="https://github.r2v.ch/codewars?user=egrivtsov&theme=light&hide_clan=true" width="50%"/>
 </div>
 
 

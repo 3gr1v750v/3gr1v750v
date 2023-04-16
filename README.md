@@ -8,6 +8,8 @@ My name is Eugeni and I am a Backend Python Developer with a strong background i
 </div>
 <br>
 
+***Technology stack***: Python 3, Flask, Django, Django REST Framework, MySQL, SQLite, PostgreSQL, ORM, Telegram Bots, Web-scraping, Unittest, Gunicorn, Nginx, GIT, Docker.
+
 Portfolio showcases some of the projects that I have worked on in the past, from building robust REST APIs to creating scalable and efficient web applications. My proficiency in Python and HTML allows me to create custom solutions that cater to your specific requirements. Whether you need an automated data extraction tool or a reliable web application, I can help you achieve your goals by leveraging cutting-edge technologies and best practices.
 
 

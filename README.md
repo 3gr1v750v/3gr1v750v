@@ -3,7 +3,7 @@
 My name is Evgenii and I am a Backend Python Developer with a strong background in data analysis and web scraping.
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeniGrivtsov&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3gr1v750v&layout=compact">
     
 </div>
 <br>
